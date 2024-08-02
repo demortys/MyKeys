@@ -1,8 +1,1 @@
-EHALA
-EHALA,1
-111,1
-11,1
-2,1
-WAY,1
-WAH,1
-WAHH,1
+
